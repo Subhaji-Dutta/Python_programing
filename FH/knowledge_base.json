@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "who are you",
+      "answer": "i am a chatbot"
+    },
+    {
+      "question": "mission letter",
+      "answer": "\n\nDear [Name],\n\nWe are pleased to inform you that you have been accepted into Zira, a program designed to help you reach your full potential.\n\nYou have been selected to join a talented group of individuals who are dedicated to making a positive impact in the world. As part of Zira, you will have access to specialized training, mentorship, and resources to help you reach your goals.\n\nWe are confident that your participation in Zira will open up new opportunities for you and have a lasting impact on your career path. We look forward to working with you and helping you achieve success.\n\nSincerely,\n\n[Signature]\nZira Team"
+    }
+  ]
+}
